@@ -1,12 +1,12 @@
-# CariesDIA-YOLO
+# DIA-Det
 
 This repository contains the model configurations and experimental results associated with the manuscript:
 
-**CariesDIA-YOLO: Dynamic Upsampling and iRMB-EMA Attention for Fine-Grained Pediatric Dental Caries Detection From Smartphone Images**
+**DIA-Det: A Dynamic Upsampling and iEMA-Enhanced Detector for Fine-Grained Pediatric Dental Caries Detection From Smartphone Images**
 
 ## Overview
 
-CariesDIA-YOLO is a lightweight object detector developed for fine-grained pediatric dental caries detection from smartphone intraoral images.
+DIA-Det is a lightweight object detector developed for fine-grained pediatric dental caries detection from smartphone intraoral images.
 
 The model is based on YOLOv8n and introduces:
 
@@ -57,7 +57,7 @@ CariesDIA-YOLO achieved the highest recall and F1-score among the evaluated vari
 This repository provides:
 
 - YOLO model configuration files
-- CariesDIA-YOLO configuration
+- DIA-Det configuration
 - Training and evaluation scripts
 - Ablation experiment settings
 - Summarized experimental results
