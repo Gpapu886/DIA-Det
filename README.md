@@ -39,7 +39,7 @@ The original images are not publicly available because they contain clinical ima
 | YOLOv8n | 3.007 | 8.1 | 0.867 | 0.805 | 0.835 | 0.891 | 0.652 |
 | YOLOv8n + DySample | 3.019 | 8.1 | 0.862 | 0.832 | 0.847 | **0.899** | **0.662** |
 | YOLOv8n + iEMA | 3.116 | 8.3 | 0.852 | 0.825 | 0.838 | 0.891 | 0.656 |
-| **CariesDIA-YOLO** | **3.096** | **8.2** | 0.862 | **0.836** | **0.849** | 0.898 | 0.660 |
+| **DIA-Det** | **3.096** | **8.2** | 0.862 | **0.836** | **0.849** | 0.898 | 0.660 |
 
 CariesDIA-YOLO achieved the highest recall and F1-score among the evaluated variants while maintaining a lightweight computational profile.
 
